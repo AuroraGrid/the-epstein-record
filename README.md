@@ -1,13 +1,13 @@
 # The Epstein Record — Sanitized Public Reference
 
-[![Required quality gate](https://github.com/hr185882-creator/the-Epstein-record/actions/workflows/quality.yml/badge.svg)](https://github.com/hr185882-creator/the-Epstein-record/actions/workflows/quality.yml)
-[![Live product smoke test](https://github.com/hr185882-creator/the-Epstein-record/actions/workflows/live-smoke.yml/badge.svg)](https://github.com/hr185882-creator/the-Epstein-record/actions/workflows/live-smoke.yml)
+[![Required quality gate](https://github.com/AuroraGrid/the-Epstein-record/actions/workflows/quality.yml/badge.svg)](https://github.com/AuroraGrid/the-Epstein-record/actions/workflows/quality.yml)
+[![Live product smoke test](https://github.com/AuroraGrid/the-Epstein-record/actions/workflows/live-smoke.yml/badge.svg)](https://github.com/AuroraGrid/the-Epstein-record/actions/workflows/live-smoke.yml)
 
 A public-safe reference architecture for a source-first research product that distinguishes what records establish from what they merely suggest, repeat, or fail to prove.
 
 - Live product: https://the-epstein-record.vercel.app/
 - Version: `1.1.0`
-- Portfolio: https://github.com/hr185882-creator
+- Portfolio: https://github.com/AuroraGrid
 - Creator: Hasan Raza Kazmi
 
 ## Verified package scope
